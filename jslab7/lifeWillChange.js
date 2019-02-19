@@ -1,0 +1,56 @@
+window.phantomText = `Who am I?
+Am I not unique?
+Maybe I'm not here
+At all
+
+Look, the fakers
+Blinding us with lies
+The breakers of us all
+
+Oh, it's useless
+What could it mean that we're here?
+Can we make a difference?
+If we don't break out of here?
+
+Wake up, get up, get out there
+Raise your voice against liars
+Feed your anger like fire
+Why does nobody want change?
+
+Just imagine you're out there
+Swatting lies in the makin'
+Can't move fast without breakin'
+If you hold on life won't change
+
+The fakers, are all sick at heart
+Their faces hiding their fear
+They look down on, all the rest of us
+Like they're some special breed
+
+Who's the high lord...
+Who thinks he's better than us?
+Ain't it a crime that, is there a mission for us?
+Who is that high lord...
+Who'd kill a million of us?
+And as the bell tolls...
+Is there no remission for us?
+
+Wake up, get up, get out there
+There's more to life than their way
+If you live you cannot stay
+Why does nobody want change?
+
+Let your voices ring out, yeah
+Take the mask off and be free
+Find yourself in the debris
+If you hold on life won't change
+
+Wake up, get up, get out there
+Raise your voice against liars
+Feed your anger like fire
+Why does nobody want change?
+
+Just imagine you're out there
+Swatting lies in the makin'
+Can't move fast without breakin'
+If you hold on life won't change`

@@ -1,0 +1,55 @@
+body{
+	/*background-color: black;*/
+	background: url("Persona-5-HD-Wallpapers.png") no-repeat center top fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: red;
+	font-family: 'VT323', monospace;
+}
+textarea {
+	background: transparent;
+	border: none;
+	color: red;
+	box-shadow: none;
+	outline: none;
+	width: 33vw;
+	text-overflow: wrap;
+	font-size: 20px;
+	flex: 1 1 auto;
+}
+#haxBox {
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+}
+
+.hidden {
+	display: none;
+}
+
+#accessGif img{
+	position: absolute;
+	top: 40vh;
+	left: 35vw;
+}
+
+#accessGif p{
+	position: absolute;
+	top: 40vh;
+	left: 35vw;
+	color: #09CC11;
+}
+
+#deniedGif img{
+	position: absolute;
+	top: 40vh;
+	left: 45vw;
+	color: #09CC11;
+}
+
+#deniedGif p{
+	position: absolute;
+	top: 40vh;
+	left: 45vw;
+	color: red;
+}
