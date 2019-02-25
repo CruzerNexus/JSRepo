@@ -1,0 +1,31 @@
+body{
+	color: #fff;
+	font-family: 'VT323', monospace;
+}
+
+#header{
+	background-color: #3A0CE8;
+	display: flex;
+	border-radius: 25px;
+	justify-content: center;
+}
+
+#search{
+	display: block;
+	justify-content: center;
+	align-items: space-between;
+	color: black;
+	padding-left: 20em;
+	font-family: 'Roboto', sans-serif;
+}
+
+#drinkIndex{
+	display: flex;
+	flex-flow: column;
+	background-color: #0D9BFF;
+	border-width: 5px;
+	border-radius: 25px;
+	justify-content: center;
+	font-family: 'Chonburi', cursive;
+	padding-left: 2em;
+}

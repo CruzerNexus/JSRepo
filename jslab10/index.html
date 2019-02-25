@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Drinky-Drinky: Cocktail Index</title>
+	<link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+	<div id="header">
+		<h1>Welcome to the Cocktail Index! What can I entice you with?</h1>
+	</div>
+	<div id="search">
+		<img class="red" src="barImg.jpg"><br>
+		<button class="red" id="catListBtn">List Categories</button>
+		<button class="red" id="glassListBtn">List Glass Types</button>
+		<button class="red" id="ingrListBtn">List Ingredients</button><br>
+		<input class="red" type="text" id="drinkSearch">
+		<button class="red" id="drinkButton">Pick Poison</button><br>
+		<p class="red">Search Filters:</p>
+		<input class="red" type="radio" name="param" value="random" checked="checked"/>Random
+	    <input class="red" type="radio" name="param" value="drinkName">Drink Name
+	    <input class="red" type="radio" name="param" value="category">Category
+	    <input class="red" type="radio" name="param" value="glass">Glass Type
+    	<input class="red" type="radio" name="param" value="ingredient">Ingredient
+	</div>
+	<div id="drinkIndex"></div>
+	<script type="text/javascript" src="app.js"></script>
+</body>
+</html>
